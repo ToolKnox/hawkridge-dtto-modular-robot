@@ -1,0 +1,620 @@
+{
+ "kind": "github",
+ "subdir": "",
+ "repo": "https://github.com/otrebla333/dtto-modular-robot",
+ "commit": "b4b97069888079e5726600969b8e0783bfe2514f",
+ "tree": "b75d89a02c9881190a73900a0653e7d73e8ada1a",
+ "commit_date": "2017-06-15T21:51:12Z",
+ "files": [
+  {
+   "path": "3D-printing/Dtto-v1/CurvaAF003.stl",
+   "bytes": 115684,
+   "git_blob_sha": "3f2ea5821795a1e7c2a72e7136960c5be4bb91e8",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "915b83db085740564696f0bbae53aebb923fb57ffde5009c245f4b4eeef541a2"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/CurvaAM002.stl",
+   "bytes": 133184,
+   "git_blob_sha": "428d4f689f6d77a534ce2fc8d8638ba1989abebf",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "5bb288be4a4d0efc284bf6e15741b20528f1fa3a8daa34afcc8af163658d7179"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/CurvaBF003.stl",
+   "bytes": 155484,
+   "git_blob_sha": "826503539d9df1e733c10e8993a15eaa7b0f4bb5",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "48d6379bd4ee59ead5b6bf2e15460ce48145dec8c2e209fdfbef25100db334a0"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/CurvaBM002.stl",
+   "bytes": 114884,
+   "git_blob_sha": "2d4aa3b7ad66251f6257a081a5c309ea9308c856",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "1c2606d953a16d521437d66e8bc2994b117c9a30e0f1d85ddff567f374106f0a"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/ParedAF001.stl",
+   "bytes": 300184,
+   "git_blob_sha": "14826ac4958e1e47b681f7bfc8401818edf862c1",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "e7c53221d2b05f542cce542e9fd697ecd24b7ab3cd4f6b7feb3ecd6c0c54d6bf"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/ParedAM003.stl",
+   "bytes": 290384,
+   "git_blob_sha": "f88d474879716bbdeeac9c3d04e4e20c162dd13c",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "8ef4028465582e9858a0ea6de10d1c3129af0ff51c350bd7b22d42394c99e6f3"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/ParedBF001.stl",
+   "bytes": 297384,
+   "git_blob_sha": "97b2a34cb308e5ee316b90062b4b419b7f047dc0",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "6af37c531fe6cbb8c4599dbef8fcdcc9497d38b7a02d0f1b8ec491dbc7feae10"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/ParedBM003.stl",
+   "bytes": 293984,
+   "git_blob_sha": "dba3f1968f8d1c5105b7a3adbeb5bb1ce9c0a805",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "e076c5d07b2b18c654321bfd40c74807302bb1568897bcb21fe02920e99cdcab"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/baseF004.stl",
+   "bytes": 269584,
+   "git_blob_sha": "42488e28e5bbed429db91d3c28bea9985688f8d9",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "ee73a9b8a50504165cacacd10bd224122e69c7e2fe7ea4aa41b08cd630f8b36a"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/baseM004.stl",
+   "bytes": 250484,
+   "git_blob_sha": "da188845788efe5c77fb8e4fbd0b8e21a2e3664d",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "44907c015afb95fa77bf7498a1e30958ecca425f5fe1d2f144ce0563478fffc6"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/brazoA001.stl",
+   "bytes": 209084,
+   "git_blob_sha": "d2e5b46414c564954bda5e81c86017cfb02b021c",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "a2cc3a038be373f27b8ee28d1e5e5ad7b89fa5c349538ea08b157fd00fac65e1"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/brazoA002.stl",
+   "bytes": 222284,
+   "git_blob_sha": "79b2d2c79c606421f6ccb80089768d6f3b7a7074",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "b97541c553aa4e5975d05858c35e2c1ce406ecf342bf67fe2a9842de025003d4"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/brazoB002.stl",
+   "bytes": 209084,
+   "git_blob_sha": "2e90fae70135b825b8fa4d58839a515d52c5f787",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "06118d2b9349b6331440384821fa1fa64fd5385bd5b8ef3977000513e3ba4f8c"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/brazoBase002.stl",
+   "bytes": 104884,
+   "git_blob_sha": "c536a12b693442b015461f9b7e20da22e4ac17e5",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "f7729eb2d4b2ee207096151561d4aba6638d981ab3ef377d9035fded48f020dd"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/brazotapa001.stl",
+   "bytes": 36784,
+   "git_blob_sha": "95076612cc0a00a97839674dd4942f0be79c607c",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "52d63004bac34e186246a899f5f28b6caf46e922a33c20ae6170d45ad415541a"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/ganchoA006.stl",
+   "bytes": 49984,
+   "git_blob_sha": "44c62eb55eed2266fae9cc6bf867d6d165026bd1",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "3cb86f222c2224a0417807a0a74700b703f387c2b81edd89aa835c6500fc442c"
+  },
+  {
+   "path": "3D-printing/Dtto-v1/ganchoB006.stl",
+   "bytes": 65184,
+   "git_blob_sha": "443b86da81387f621b9bcccd6512adbcd9c0c7b2",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "015885fc1552a7da9900d15c6580842ac0ecdfb249391c4300b1fddd155ac615"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/001-1(curvaext002).stl",
+   "bytes": 50184,
+   "git_blob_sha": "e127da70a14c0d4ea4b9bdf16cd267436668a9b9",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "939411296449cafc04a13ec21a371d6139ffd83654e70a1b7868a065ece3c333"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/002-1(curvafija002).stl",
+   "bytes": 65134,
+   "git_blob_sha": "42a1fffad7abe13050f3f85649938ad21ad00d00",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "08cab7ee8dbad466cc6798460652fe708470b201506871ef6305673047a24230"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/003-1(paredcurva003).stl",
+   "bytes": 129784,
+   "git_blob_sha": "ffbf02d371bd79d6683961e0884e476bc62074f8",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "d77c40bf261e7645ae3f2d06a3953aeb2c0dd77ed4a1084a2768cf531e155685"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/004-1(interior001).stl",
+   "bytes": 100384,
+   "git_blob_sha": "f6f30f58cfae3a0a10bcdbf9d958b5558ddd283b",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "2ec3969dec05e7aca312c9d3c2d890f07eb283eef355ca3e6f10b97ab0952792"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/005-1(baseM001).stl",
+   "bytes": 332184,
+   "git_blob_sha": "fde1aae3dcaace2b68f315366786bf0f3c180257",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "160f962246944c40b14d0835cf8768550b46d83efb5de58aa84251ee9676af8c"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/006-1(baseF001).stl",
+   "bytes": 264084,
+   "git_blob_sha": "ece3221cf2e63f0fb24542dcfd1c86d6af288ec2",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "d9630a52cb4788d54fe81fca5552b83b4c88428deff752910b0b56a5226f1827"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/007-1(paredAM001).stl",
+   "bytes": 395084,
+   "git_blob_sha": "0b90d70bd945b11a94444bb128c1e339bd3890ce",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "31285b960f8d15277b0ff7fc38992838054a2ef42c9d1d06e6f5a638025ebd43"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/008-1(paredAF001).stl",
+   "bytes": 280884,
+   "git_blob_sha": "75acc48726d910f8c62ce1ff2884da6bdc669fbe",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "db2af0ba8a16caf381ca0003295fcae69b336e7fb38ac6df244b5d87ea92da17"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/009-1(ParedBM001).stl",
+   "bytes": 350884,
+   "git_blob_sha": "2e87c23d2d57689897b130dc32d84f3e95973316",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "6c3d587973f2593a2cd08d5c71fb614401c815f87440990028e4b0deac218562"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/010-1(paredBF001).stl",
+   "bytes": 280884,
+   "git_blob_sha": "3da0f32e343c56591caea03cb3c4668aa8955465",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "7aabc0b617583c38a726b54fc9a35dbceaf989cca35e55ba06db075ac26d481a"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/011-1(brazotapa002).stl",
+   "bytes": 125084,
+   "git_blob_sha": "eecb06ddf16763fee6a736aff0fb86082dd18cae",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "5cd569ed04917f91e21a701ef93748432651a6ec54af119215e9b64bc1de99ed"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/012-1(brazobase002).stl",
+   "bytes": 307384,
+   "git_blob_sha": "9dfb43e612c9b01b8b91eaa546c4292c57391c06",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "185c9c87b68ce2531650634a5dc362f864623330db0064502cebe258c3290653"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/013-1(ganchoA002).stl",
+   "bytes": 63984,
+   "git_blob_sha": "3b086c4f96eea2903ea6ccf744f38349303047dc",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "35762abe580e803450282efe263850caffe9e063cc9015d47ebb465ba362bba4"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/014-1(ganchoB001).stl",
+   "bytes": 53284,
+   "git_blob_sha": "c391d15ef736a349c82eafac0621c33d95224cb0",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "9567ddbeb0f5e0892bfb32547e7d7333132a0eefb7e573dba9ac8ce15b1bbe82"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/DttoModularRobotv2-3Dparts.zip",
+   "bytes": 587100,
+   "git_blob_sha": "9206da27fe3bf4e358834a19f2e0f9bd66c014dd",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "4d85f68b78c55c1ac369e7532589a9ffec9758e0cee628591e268f789f55208d"
+  },
+  {
+   "path": "3D-printing/Dtto-v2.0.1/Dtto_v2.0.1_stepfiles2.zip",
+   "bytes": 1012876,
+   "git_blob_sha": "417ca39303bd18476ac7e666716241f16617b003",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "08ee516792e278f12956af0e0c3fb06fd93fe63b44b550c188730d28ea492c8d"
+  },
+  {
+   "path": "3D-printing/Freecad-files/Dttov1.1.FCStd",
+   "bytes": 6445397,
+   "git_blob_sha": "aebad976e7c294657ac3af96e64d8415a51581ea",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "3a8065c51dfd1f778f0b81a304317b489cc60b01c378a9a909e043923463d184"
+  },
+  {
+   "path": "3D-printing/Freecad-files/Dttov2.0.1.FCStd",
+   "bytes": 16716172,
+   "git_blob_sha": "8617e56bea98bf0c1ff01f3bf06defed01d89014",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "8630500f6c58886f5fd953bc3f3eae5b0fe36cff955ad65be77af65bea2c1cb1"
+  },
+  {
+   "path": "3D-printing/Freecad-files/Modelo.Escala.Dtto.v1.1.FCStd",
+   "bytes": 75850,
+   "git_blob_sha": "e90992955c059f72f46643d74000f8480c0e2da7",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "7c78e59714de4ec9bad1f98aa4669ffba7793e9f41e18747362b65a040f6ab57"
+  },
+  {
+   "path": "3D-printing/Instructions.hardware.txt",
+   "bytes": 523,
+   "git_blob_sha": "69a85ef834b487f5d6e6cb30c5cb7cfc76b5b302",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "ca2254774250b21610c68717f25509b7db0cb5754bd3d7e2bd7a72ed5bf7bfc7"
+  },
+  {
+   "path": "3D-printing/List of 3D printed Partsv4.pdf",
+   "bytes": 337633,
+   "git_blob_sha": "30344a4b25de9db225addab16eee7c36e94f8656",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "a53068082c63d8eccf8f96bc230dd001c0d8464ea7011cdf1d28ecbf47ac91aa"
+  },
+  {
+   "path": "3D-printing/Small-model-v1/Brazo002.stl",
+   "bytes": 78684,
+   "git_blob_sha": "5b68a2fbdc493d16c27f8e7966e1d6bac11850ff",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "bb3334c73e4155347fa7fa6ee2d1a00e483cecad1f3243a1fd7d010e802bd88a"
+  },
+  {
+   "path": "3D-printing/Small-model-v1/Male004.stl",
+   "bytes": 49084,
+   "git_blob_sha": "83d226eb2afda63237ae5ada78172992f49752b6",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "fc83471e4f0758e3953d1125e6a0fd3cba294b88da742f5637720b877278ed49"
+  },
+  {
+   "path": "IMAGES/1.jpg",
+   "bytes": 279066,
+   "git_blob_sha": "7867c82ba7839ff733b37000a1c262c80eeebd89",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "daab61039ac55c4adf34e86eb0e806b1c3bea559a8cb5076a5e3fa6e12e6999d"
+  },
+  {
+   "path": "IMAGES/10.jpg",
+   "bytes": 193568,
+   "git_blob_sha": "ddbc0c76b107394fb8fd82e779e839923a6e80e3",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "676c5b660ac07320785ee180f6d2499a88be3e9bb4d640d3667db6a1ac61a340"
+  },
+  {
+   "path": "IMAGES/11.jpg",
+   "bytes": 224131,
+   "git_blob_sha": "ceca98307c3133914f1744e5e9327285b22c160b",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "4bb3f8bee833519151d3253db76d477f89e7c69651afc217470984d563c8faa0"
+  },
+  {
+   "path": "IMAGES/11s.jpg",
+   "bytes": 31787,
+   "git_blob_sha": "68556b50013abf1fb123507c6bdc25e1fc159d59",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "1f4c91e05e050d4b428a5ea342fa4e189e28e9d0f62d06c93be2a81f4d1c6224"
+  },
+  {
+   "path": "IMAGES/12.jpg",
+   "bytes": 231827,
+   "git_blob_sha": "c6cd05b023b1e2bdefae71d327ec575ef6170007",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "3156e591fd9496917966d0ccbeec5b5d1f1b8f004da82b8037d56cc8913d5669"
+  },
+  {
+   "path": "IMAGES/12s.jpg",
+   "bytes": 33017,
+   "git_blob_sha": "c627bb580edd0d1e64804bff9d263b73e899c03f",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "30c8e39989e06bcaa006327cf30416ea8f6d168ae941264917fbb11be61c2812"
+  },
+  {
+   "path": "IMAGES/13.jpg",
+   "bytes": 230380,
+   "git_blob_sha": "fd99edff47dbb48dcb6a672c6034258b86fc070e",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "817566cd4a0363f9a0d33248cb63d2b5b2cc7fa88bca65d783ef21009b33bed1"
+  },
+  {
+   "path": "IMAGES/14.jpg",
+   "bytes": 243209,
+   "git_blob_sha": "57e02098d9acf9e86cc97c140ad50984fdc3c191",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "4491b76763209c95f8ed2cc8bfb7051ed4e26c0ee7f9c6cc350a309278cb818c"
+  },
+  {
+   "path": "IMAGES/14s.jpg",
+   "bytes": 33335,
+   "git_blob_sha": "39dea770e0c4a31006b5654c335b08bb6dcb46f9",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "8c8116b268bf45e450457d912fcb052367037c4453727b5cce380e97ba8af44b"
+  },
+  {
+   "path": "IMAGES/15.jpg",
+   "bytes": 224393,
+   "git_blob_sha": "e2f90e9d3c392e86994fdadf7864cc8c22da75ae",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "8d4dcce4e8a809b2249531715ebdf7785ebfdce9e41143b3937340f2fe62b21f"
+  },
+  {
+   "path": "IMAGES/15s.jpg",
+   "bytes": 32154,
+   "git_blob_sha": "082f890163b8fa9719fac4f5d7fe0385c9b1ac24",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "759fee63385ccd579fe0a801e144a482879f8fc549f40336220b19c75b6a4e5d"
+  },
+  {
+   "path": "IMAGES/16.jpg",
+   "bytes": 232630,
+   "git_blob_sha": "cfb0520b7c96e71f6ff26f22803b62d0a228ef41",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "f5b34705bb370fc09e2a517f37ff82e10229d8d2af9e1b5a29d185bdf1b341b9"
+  },
+  {
+   "path": "IMAGES/17.JPG",
+   "bytes": 66406,
+   "git_blob_sha": "04942d93806f5a0688975207299ed3edb3acf7e9",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "38d51ab1ae6eb61084c22ad530fb65f30ca12e5b36f167af472104308d87fc26"
+  },
+  {
+   "path": "IMAGES/18s.jpg",
+   "bytes": 38370,
+   "git_blob_sha": "0e73d5fe55adfe9e7856c8c55317e9b19c27765d",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "32effae76c0f7ce78c129a45d6b0ed3db996cc662f300fec440c2bc990f6ee92"
+  },
+  {
+   "path": "IMAGES/1s.jpg",
+   "bytes": 39113,
+   "git_blob_sha": "457d1e5eef85ea37fe709573623f439a0b6092a1",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "877e8ff905a64d0e289c3dd7357bfaefa181976d9d7e59f86be9f09d73ccde08"
+  },
+  {
+   "path": "IMAGES/2.jpg",
+   "bytes": 177586,
+   "git_blob_sha": "08dca9473d662eccc3f4ce6aeb814c3e3b52366e",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "6cdc1a9409c0b3d73c177f14e68143c4480f6904de1a4abd23bc38429a4d7e17"
+  },
+  {
+   "path": "IMAGES/3.jpg",
+   "bytes": 345050,
+   "git_blob_sha": "9cb4905407f15904c438ed1bcf506d542d518a8b",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "8cc78237f1e017a5aa6efb1afaa22b2ae36b915d0dd21cc3b2f87c4ed97bbec0"
+  },
+  {
+   "path": "IMAGES/4.jpg",
+   "bytes": 413490,
+   "git_blob_sha": "8354dbf85b5d25f4ef539a5940fcf82fb973a2b2",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "c825b2b8ed757f073a2a9cb76b77da851a20cf0101ead2e33073c95daf51ad4e"
+  },
+  {
+   "path": "IMAGES/5.jpg",
+   "bytes": 332473,
+   "git_blob_sha": "f0fd62a8bce98d0e684add1db41e5cc14eafdcb7",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "a4fc67a9a1e04a22a55e9fa190a93d501bb6c7f1d26b7673232da305b73c7451"
+  },
+  {
+   "path": "IMAGES/6.jpg",
+   "bytes": 514360,
+   "git_blob_sha": "37352020da8e3c2d8be64d252a3ff724d2e4947b",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "9108d7c87a2e55a60c07ddfd4b478dd9e90566b01615073405e196ea82609018"
+  },
+  {
+   "path": "IMAGES/6s.jpg",
+   "bytes": 46295,
+   "git_blob_sha": "393b97c7b7e3212d2175c83241786131693ed22d",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "09a33617b6bd17d8a2716ca78eff88f06c959df001926b43f1e12bf2c6a25428"
+  },
+  {
+   "path": "IMAGES/7.jpg",
+   "bytes": 330788,
+   "git_blob_sha": "b1f9297d060b29f8ee7d6927d7138927c1c6dd3d",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "0e6cf7aed1a09d80149ae556a9512bc1ec9e0c8b0122b269383d3dc098d45db3"
+  },
+  {
+   "path": "IMAGES/8.jpg",
+   "bytes": 206676,
+   "git_blob_sha": "ac2f6024fb4648c259bcfb584cc068c19d07fa17",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "6042c49a192c7181912f83682237bdcb3ddde5970fb7b0447ec682948f3b19ff"
+  },
+  {
+   "path": "IMAGES/9.jpg",
+   "bytes": 179802,
+   "git_blob_sha": "5d9e0a0c11fcf7e7d5903c6bb620d0138e736419",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "4576b272f36498440d9370fcbd2745dc9eb06bb82959ac666c4ae850e22eda87"
+  },
+  {
+   "path": "LICENSE",
+   "bytes": 15519,
+   "git_blob_sha": "73cad4dc2aac1d217ae4ae5ce8b5dbe762eec7b8",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "fd5524ce899b86f8a02c8de7005a6d22113f465a8262fd8b86e0e1d28c0f6f45"
+  },
+  {
+   "path": "README.md",
+   "bytes": 2858,
+   "git_blob_sha": "993eb5a383c8dc71abd6f599f6721e9d78acc742",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "9174cbbf52289b87b0c87619e2809d374c1f89ded19b0902e6d0b280fc1dd394"
+  },
+  {
+   "path": "Software/Dtto_Program_03.ino",
+   "bytes": 17009,
+   "git_blob_sha": "a93ae5ed021e719a292eb539e3dc1963fbce9ff9",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "6de0fcd65395de7ccea09d241b72c5507d2fb4ae3818eecda6797cfb408d35e8"
+  },
+  {
+   "path": "Software/Dtto_Program_v04.ino",
+   "bytes": 19256,
+   "git_blob_sha": "18bfbc3eccd3dd767bb8bf545796aecaf2cde2d7",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "8f79ccb634e8cdefeb04fd48ff80d295a2bc094e443bd40cf961fedd081eec50"
+  },
+  {
+   "path": "Software/Short instructions for v03.txt",
+   "bytes": 2264,
+   "git_blob_sha": "d61a809dc2ff51afc55616f523bb16e04c98ae4f",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "3cc8aa31e24c98608a129093f69a8193893164839f33a0de21ba5a2ef51cfa0c"
+  },
+  {
+   "path": "V-REP-Simulations/2 modulos serp.ttt",
+   "bytes": 372951,
+   "git_blob_sha": "19ecf11284fb5c48bfefc076f68a5c720c562e65",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "26918870a361f82d8109346deb3ed73a47e8b5c09fde76b6ae1432671e0c2f33"
+  },
+  {
+   "path": "V-REP-Simulations/3 modulos PYP.ttt",
+   "bytes": 346331,
+   "git_blob_sha": "8741b2773d025e8a4132989801044e6a939def55",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "75970d30f1bea72a2fd29577d0eaafc35e2a0c6db684702cd26e2f6aebafb9d1"
+  },
+  {
+   "path": "V-REP-Simulations/3 modulos serp.ttt",
+   "bytes": 356606,
+   "git_blob_sha": "d7dc7b2b5c599618743d54cfaddeb4788996de86",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "5d0f912d00ee5a28d1c97cbff363ec04dc6b2302a10bb95d9d6ea68745e8066e"
+  },
+  {
+   "path": "V-REP-Simulations/4modulessnake.ttt",
+   "bytes": 198552,
+   "git_blob_sha": "8c11ee55e788a8e56e802d78071e1e454c9b04eb",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "9fbca76c6ed366d4cfdfdd8f9ba641ede3eefd0c7db046ba1cbf8a20539b424b"
+  },
+  {
+   "path": "V-REP-Simulations/4moduleswalker.ttt",
+   "bytes": 368663,
+   "git_blob_sha": "b40b64aad358d3ae849b75202f054e6cf44f7ed8",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "3a7b86f7af92079ccb1aba442db9add1ce9f3907ca7ebd260c590f675d284605"
+  },
+  {
+   "path": "V-REP-Simulations/5 modulos walker.ttt",
+   "bytes": 357515,
+   "git_blob_sha": "2d8a79374c680197b69797a51b5f758aea2ac7f0",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "386d74624941702d625d963809eb532bf00da979a1ee4e111a38dc2e15d60917"
+  },
+  {
+   "path": "V-REP-Simulations/Hexapod_VREP.ttt",
+   "bytes": 451083,
+   "git_blob_sha": "d5a98f26c3f88aafbaaa27271f9f811d56431c9d",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "37e1d400465622697ac010d37c8387c86ae054d633ccb0dec238a5a8298fa59a"
+  }
+ ],
+ "all_blob_match": true,
+ "lfs_pointers": []
+}
